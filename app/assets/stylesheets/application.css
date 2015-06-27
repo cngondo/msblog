@@ -13,7 +13,11 @@
  *= require_tree .
  *= require_self
  */
-
+#bd{
+  background-image: url("/assets/bg_msblog.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 #slider{
     height: 400px;
     width: 100%;
